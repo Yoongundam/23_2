@@ -6,7 +6,14 @@
 
 ### 강의 목록
 
-* [네트워크 게임프로그래밍 (배재환 교수님)](https://github.com/Yoongundam/23_1/tree/main/os)
+* [데이터 베이스 (이승욱 교수님)](https://github.com/Yoongundam/23_2/tree/main/DB)
+* [엔진기반 게임프로젝트 (이승욱 교수님)](https://github.com/Yoongundam/23_2/tree/main/EG)
+* [1인 미디어와 크리에이팅 (나준기 교수님)](https://github.com/Yoongundam/23_2/tree/main/MD)
+* [게임 및 메타버스 (오암석 교수님)](https://github.com/Yoongundam/23_2/tree/main/MT)
+* [네트워크 게임프로그래밍 (배재환 교수님)](https://github.com/Yoongundam/23_2/tree/main/NW)
+* [파이썬 프로그래밍 기초 (김분희 교수님)](https://github.com/Yoongundam/23_2/tree/main/PY)
+* [사회봉사와 인성 (최장원 교수님)](https://github.com/Yoongundam/23_2/tree/main/Vㅣ)
+* [무기체계 (김진길 교수님)](https://github.com/Yoongundam/23_2/tree/main/WP)
 
 ### 관련 링크
 
