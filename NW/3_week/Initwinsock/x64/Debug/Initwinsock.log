@@ -1,0 +1,13 @@
+﻿  Initwinsock.cpp
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(18,2): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 3을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(18,38): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 'MessageBoxW' 선언을 참조하십시오.
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(18,2): message : 인수 목록 '(int, LPCTSTR, const char *, long)'을(를) 일치시키는 동안
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(27,2): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 2을(를) 'const char [17]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(27,19): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 'MessageBoxW' 선언을 참조하십시오.
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(27,2): message : 인수 목록 '(int, const char [17], const char [5], long)'을(를) 일치시키는 동안
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(31,2): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 2을(를) 'const char [19]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(31,19): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1): message : 'MessageBoxW' 선언을 참조하십시오.
+D:\trunk\23_2\NW\3_week\Initwinsock\Initwinsock.cpp(31,2): message : 인수 목록 '(int, const char [19], const char [5], long)'을(를) 일치시키는 동안
